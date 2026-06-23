@@ -1,0 +1,501 @@
+product_id,product_name,category,warehouse,manufacturing_date,expiry_date,stock_quantity,units_sold_per_month,price_per_unit
+prd_1000,wheat_328,Food,Warehouse B,2026-05-13,2027-04-19,764,57,3386.73
+prd_1001,rice_130,Food,Warehouse A,2025-07-27,2026-12-01,233,124,2531.72
+prd_1002,biscuits_765,Food,Warehouse D,2025-08-11,2026-05-01,235,234,2950.44
+prd_1003,sugar_384,Food,Warehouse B,2026-03-05,2027-07-10,230,177,520.03
+prd_1004,soda_718,Beverages,Warehouse C,2026-04-06,2027-06-07,836,27,3651.36
+prd_1005,oil_400,Food,Warehouse C,2025-11-13,2026-04-02,601,103,3525.81
+prd_1006,rice_975,Food,Warehouse B,2026-01-29,2027-01-20,897,56,1906.83
+prd_1007,juice_479,Beverages,Warehouse C,2025-07-04,2026-09-10,224,141,3512.08
+prd_1008,wheat_646,Food,Warehouse B,2025-07-18,2027-06-28,177,241,1903.48
+prd_1009,vitamin c_941,Medicine,Warehouse A,2025-12-10,2026-04-06,834,166,2011.81
+prd_1010,biscuits_422,Food,Warehouse B,2026-02-06,2027-11-08,681,260,1984.2
+prd_1011,juice_352,Beverages,Warehouse C,2026-03-13,2027-02-07,774,224,4490.14
+prd_1012,juice_621,Beverages,Warehouse D,2025-11-21,2026-09-01,103,29,4306.9
+prd_1013,cough syrup_710,Medicine,Warehouse A,2025-07-08,2026-02-16,404,200,2983.48
+prd_1014,coffee_981,Beverages,Warehouse A,2025-08-28,2026-07-11,706,63,3411.73
+prd_1015,shampoo_400,Cosmetics,Warehouse D,2025-07-01,2026-08-13,171,237,26.19
+prd_1016,facewash_208,Cosmetics,Warehouse C,2025-09-11,2026-05-11,871,264,3048.76
+prd_1017,bandage_897,Medicine,Warehouse A,2025-11-15,2026-06-28,623,170,2448.14
+prd_1018,wheat_159,Food,Warehouse B,2025-11-21,2026-11-30,909,295,4735.28
+prd_1019,noodles_645,Food,Warehouse B,2025-09-19,2026-01-27,141,248,4734.77
+prd_1020,bandage_533,Medicine,Warehouse B,2026-01-10,2027-09-02,961,281,3778.77
+prd_1021,antibiotics_548,Medicine,Warehouse D,2025-12-17,2027-03-30,133,131,1131.24
+prd_1022,facewash_335,Cosmetics,Warehouse B,2026-05-15,2028-03-07,17,41,3542.13
+prd_1023,rice_980,Food,Warehouse C,2026-01-28,2026-06-06,82,268,1197.64
+prd_1024,juice_840,Beverages,Warehouse D,2026-02-05,2027-10-10,258,247,4039.41
+prd_1025,cough syrup_462,Medicine,Warehouse D,2026-04-07,2026-09-13,430,244,4320.55
+prd_1026,rice_162,Food,Warehouse D,2025-06-25,2027-06-16,755,178,4004.96
+prd_1027,wheat_649,Food,Warehouse D,2026-01-18,2026-10-01,153,221,925.61
+prd_1028,tea_927,Beverages,Warehouse A,2026-01-18,2026-06-04,61,281,4181.78
+prd_1029,salt_597,Food,Warehouse D,2026-01-24,2026-09-11,228,210,4513.19
+prd_1030,cough syrup_371,Medicine,Warehouse D,2025-11-12,2026-01-13,302,221,3485.99
+prd_1031,soda_322,Beverages,Warehouse A,2026-03-07,2026-11-16,603,282,314.18
+prd_1032,facewash_588,Cosmetics,Warehouse B,2026-04-26,2026-08-15,68,265,409.76
+prd_1033,paracetamol_791,Medicine,Warehouse B,2026-04-20,2028-02-18,423,66,4708.56
+prd_1034,paracetamol_734,Medicine,Warehouse A,2025-08-02,2027-06-01,439,294,2618.69
+prd_1035,moisturizer_371,Cosmetics,Warehouse D,2026-02-10,2027-02-26,144,158,2291.55
+prd_1036,oil_676,Food,Warehouse A,2026-05-21,2027-11-01,85,280,1073.64
+prd_1037,shampoo_350,Cosmetics,Warehouse C,2026-03-19,2027-05-10,301,85,2196.54
+prd_1038,facewash_108,Cosmetics,Warehouse C,2025-07-16,2027-07-15,964,58,4695.26
+prd_1039,paracetamol_860,Medicine,Warehouse B,2026-01-10,2026-07-07,288,149,3028.1
+prd_1040,sunscreen_617,Cosmetics,Warehouse D,2026-02-10,2028-01-20,267,31,470.57
+prd_1041,water_441,Beverages,Warehouse B,2026-01-04,2026-04-19,662,139,816.29
+prd_1042,coffee_109,Beverages,Warehouse A,2025-08-16,2026-12-26,87,81,2732.5
+prd_1043,moisturizer_540,Cosmetics,Warehouse B,2025-07-31,2027-04-17,52,162,1829.61
+prd_1044,biscuits_355,Food,Warehouse A,2025-11-23,2026-08-25,372,291,4421.83
+prd_1045,juice_985,Beverages,Warehouse B,2025-07-12,2026-02-15,829,95,4408.27
+prd_1046,noodles_521,Food,Warehouse B,2026-02-23,2027-03-30,283,86,3939.0
+prd_1047,noodles_581,Food,Warehouse B,2025-11-11,2026-02-18,214,240,1754.8
+prd_1048,vitamin c_508,Medicine,Warehouse C,2026-01-31,2026-04-25,295,40,4834.78
+prd_1049,facewash_509,Cosmetics,Warehouse C,2025-11-27,2027-11-13,971,19,585.56
+prd_1050,sunscreen_139,Cosmetics,Warehouse A,2026-02-23,2027-12-09,620,227,1734.98
+prd_1051,facewash_218,Cosmetics,Warehouse D,2025-10-14,2027-08-25,931,300,958.49
+prd_1052,oil_925,Food,Warehouse B,2025-10-14,2025-12-14,382,225,359.17
+prd_1053,shampoo_837,Cosmetics,Warehouse C,2025-07-10,2026-07-26,529,163,3337.8
+prd_1054,facewash_230,Cosmetics,Warehouse B,2025-10-31,2026-10-28,440,199,3389.82
+prd_1055,antibiotics_515,Medicine,Warehouse A,2025-07-14,2027-04-17,321,151,1058.81
+prd_1056,lip balm_791,Cosmetics,Warehouse B,2025-09-29,2027-02-23,533,247,3970.74
+prd_1057,bandage_779,Medicine,Warehouse C,2026-04-12,2027-03-28,105,125,3367.25
+prd_1058,paracetamol_147,Medicine,Warehouse B,2026-02-13,2026-09-11,496,42,2282.53
+prd_1059,cough syrup_349,Medicine,Warehouse B,2025-11-10,2027-05-30,681,7,4464.37
+prd_1060,wheat_923,Food,Warehouse D,2025-10-20,2026-07-31,61,290,1253.5
+prd_1061,noodles_575,Food,Warehouse C,2025-10-04,2026-04-18,982,231,3067.14
+prd_1062,juice_861,Beverages,Warehouse D,2025-08-18,2027-01-16,470,137,3761.37
+prd_1063,moisturizer_381,Cosmetics,Warehouse D,2025-09-01,2027-03-11,89,151,1180.12
+prd_1064,shampoo_241,Cosmetics,Warehouse B,2025-12-13,2027-08-18,246,201,3472.81
+prd_1065,cough syrup_438,Medicine,Warehouse D,2026-04-23,2027-08-20,435,36,1042.1
+prd_1066,energy drink_120,Beverages,Warehouse D,2025-11-07,2027-08-27,498,8,4714.28
+prd_1067,facewash_865,Cosmetics,Warehouse B,2025-11-07,2027-03-11,509,117,1371.95
+prd_1068,soda_784,Beverages,Warehouse D,2026-05-11,2027-08-12,751,89,4204.12
+prd_1069,paracetamol_503,Medicine,Warehouse A,2025-07-11,2027-03-09,95,224,687.14
+prd_1070,soda_488,Beverages,Warehouse C,2026-02-21,2026-06-12,226,237,1640.96
+prd_1071,soda_954,Beverages,Warehouse A,2026-01-03,2027-05-09,491,14,3747.63
+prd_1072,biscuits_170,Food,Warehouse A,2025-11-27,2026-09-12,782,20,4748.56
+prd_1073,vitamin c_344,Medicine,Warehouse B,2026-05-15,2028-04-10,494,63,2824.21
+prd_1074,antibiotics_271,Medicine,Warehouse A,2025-09-29,2026-08-17,806,88,4823.96
+prd_1075,sugar_689,Food,Warehouse D,2025-08-02,2025-10-27,416,106,389.22
+prd_1076,bandage_924,Medicine,Warehouse A,2026-04-03,2027-04-06,825,294,3915.35
+prd_1077,sunscreen_170,Cosmetics,Warehouse C,2025-08-26,2027-01-06,22,220,4113.43
+prd_1078,biscuits_948,Food,Warehouse D,2025-10-16,2026-12-20,734,83,2183.08
+prd_1079,lip balm_576,Cosmetics,Warehouse D,2025-07-14,2027-03-17,855,142,1618.3
+prd_1080,cough syrup_349,Medicine,Warehouse D,2026-04-11,2027-03-22,593,199,1688.62
+prd_1081,tea_317,Beverages,Warehouse C,2025-12-10,2026-08-13,826,137,1708.29
+prd_1082,facewash_295,Cosmetics,Warehouse A,2025-08-14,2025-10-23,257,213,2448.0
+prd_1083,cough syrup_558,Medicine,Warehouse A,2025-09-24,2027-09-15,105,155,1115.77
+prd_1084,antibiotics_584,Medicine,Warehouse C,2025-12-20,2027-10-06,445,286,1660.65
+prd_1085,soda_336,Beverages,Warehouse A,2026-01-07,2027-01-15,748,103,1584.58
+prd_1086,cough syrup_383,Medicine,Warehouse C,2026-02-16,2026-11-24,112,104,1488.27
+prd_1087,shampoo_825,Cosmetics,Warehouse B,2026-02-23,2027-02-27,290,28,4871.73
+prd_1088,lip balm_205,Cosmetics,Warehouse A,2026-03-22,2028-03-04,597,150,2352.29
+prd_1089,water_358,Beverages,Warehouse D,2025-12-02,2026-08-07,126,38,2009.53
+prd_1090,biscuits_154,Food,Warehouse B,2025-08-03,2027-07-08,162,293,4746.14
+prd_1091,oil_882,Food,Warehouse D,2026-01-18,2026-07-18,630,120,3880.71
+prd_1092,soda_980,Beverages,Warehouse D,2025-10-07,2027-03-04,322,296,3108.93
+prd_1093,wheat_370,Food,Warehouse A,2026-02-08,2028-01-09,170,127,877.33
+prd_1094,salt_561,Food,Warehouse D,2026-03-06,2026-05-07,308,21,1165.07
+prd_1095,moisturizer_370,Cosmetics,Warehouse B,2025-10-05,2026-02-14,445,63,2727.37
+prd_1096,paracetamol_161,Medicine,Warehouse B,2026-01-09,2026-08-02,821,162,2979.27
+prd_1097,lip balm_805,Cosmetics,Warehouse C,2025-10-13,2026-04-18,726,211,4713.95
+prd_1098,coffee_140,Beverages,Warehouse D,2025-10-13,2026-03-04,762,170,3022.53
+prd_1099,biscuits_956,Food,Warehouse A,2026-04-09,2027-01-28,793,142,2885.47
+prd_1100,cough syrup_384,Medicine,Warehouse B,2025-09-27,2027-05-11,609,228,3177.58
+prd_1101,soda_518,Beverages,Warehouse C,2026-04-09,2027-10-02,338,58,4290.09
+prd_1102,sunscreen_778,Cosmetics,Warehouse D,2025-10-27,2027-05-17,843,286,193.12
+prd_1103,sugar_218,Food,Warehouse D,2025-12-15,2026-10-29,895,268,4126.39
+prd_1104,salt_155,Food,Warehouse B,2025-08-21,2027-02-05,540,190,3116.94
+prd_1105,water_308,Beverages,Warehouse C,2025-07-09,2026-12-03,572,72,4639.09
+prd_1106,water_745,Beverages,Warehouse B,2025-09-19,2026-03-22,736,86,1560.64
+prd_1107,rice_330,Food,Warehouse A,2025-08-16,2026-12-06,482,65,3242.07
+prd_1108,bandage_822,Medicine,Warehouse C,2025-09-12,2026-09-05,435,252,4901.42
+prd_1109,vitamin c_492,Medicine,Warehouse B,2025-10-04,2027-06-20,953,265,3734.0
+prd_1110,cough syrup_448,Medicine,Warehouse C,2026-04-20,2027-03-28,850,6,1421.37
+prd_1111,lip balm_986,Cosmetics,Warehouse B,2025-07-29,2027-05-13,467,280,2426.86
+prd_1112,lip balm_566,Cosmetics,Warehouse C,2025-08-16,2027-04-24,900,101,4904.07
+prd_1113,vitamin c_976,Medicine,Warehouse D,2025-08-06,2026-11-01,54,167,3726.08
+prd_1114,juice_607,Beverages,Warehouse A,2025-11-09,2027-11-06,139,262,4827.11
+prd_1115,shampoo_638,Cosmetics,Warehouse D,2026-04-04,2027-08-27,25,78,2055.79
+prd_1116,antibiotics_446,Medicine,Warehouse D,2026-04-17,2027-10-09,675,46,4260.31
+prd_1117,energy drink_877,Beverages,Warehouse D,2025-12-14,2027-11-15,903,282,189.14
+prd_1118,biscuits_394,Food,Warehouse B,2026-01-25,2028-01-01,774,51,2175.52
+prd_1119,salt_270,Food,Warehouse C,2025-07-05,2025-12-14,935,19,239.49
+prd_1120,sugar_541,Food,Warehouse B,2025-12-26,2027-02-26,260,276,2066.14
+prd_1121,paracetamol_724,Medicine,Warehouse D,2026-02-27,2026-10-24,644,128,2493.36
+prd_1122,antibiotics_570,Medicine,Warehouse C,2026-01-27,2027-07-13,692,9,4495.55
+prd_1123,juice_175,Beverages,Warehouse D,2025-12-29,2027-09-09,977,181,4938.38
+prd_1124,sunscreen_567,Cosmetics,Warehouse C,2025-07-02,2026-11-08,213,201,4268.14
+prd_1125,oil_467,Food,Warehouse C,2026-01-24,2027-04-19,726,156,119.48
+prd_1126,coffee_985,Beverages,Warehouse A,2026-01-05,2026-03-14,942,259,4165.87
+prd_1127,sunscreen_324,Cosmetics,Warehouse B,2026-01-28,2027-12-10,645,133,3392.04
+prd_1128,paracetamol_416,Medicine,Warehouse D,2025-07-08,2025-12-14,44,191,3664.48
+prd_1129,biscuits_525,Food,Warehouse B,2025-12-25,2027-01-23,215,72,3934.7
+prd_1130,sunscreen_950,Cosmetics,Warehouse B,2025-08-27,2027-03-23,273,251,4837.25
+prd_1131,lip balm_177,Cosmetics,Warehouse B,2025-12-03,2026-05-29,782,120,4302.1
+prd_1132,water_909,Beverages,Warehouse D,2025-08-13,2026-10-21,24,140,2687.5
+prd_1133,coffee_490,Beverages,Warehouse C,2025-11-18,2026-10-12,120,124,2362.67
+prd_1134,shampoo_750,Cosmetics,Warehouse D,2025-07-17,2026-04-29,941,159,3249.7
+prd_1135,rice_411,Food,Warehouse D,2026-03-15,2026-06-29,128,54,1181.65
+prd_1136,antibiotics_786,Medicine,Warehouse D,2025-11-08,2027-04-16,611,84,4428.21
+prd_1137,salt_386,Food,Warehouse A,2025-09-17,2027-08-08,716,194,1094.18
+prd_1138,water_802,Beverages,Warehouse C,2026-01-25,2027-04-01,567,188,312.14
+prd_1139,lip balm_193,Cosmetics,Warehouse B,2026-02-17,2026-08-21,667,15,262.39
+prd_1140,facewash_310,Cosmetics,Warehouse A,2026-01-21,2026-07-28,859,288,1043.72
+prd_1141,vitamin c_907,Medicine,Warehouse A,2026-01-26,2027-02-26,293,79,4937.76
+prd_1142,shampoo_234,Cosmetics,Warehouse A,2026-02-25,2026-08-16,376,126,2948.38
+prd_1143,rice_229,Food,Warehouse D,2026-02-25,2027-01-22,548,63,3730.87
+prd_1144,coffee_707,Beverages,Warehouse A,2025-10-08,2026-12-12,472,262,1115.53
+prd_1145,salt_758,Food,Warehouse A,2025-09-01,2026-09-04,72,250,4238.02
+prd_1146,energy drink_554,Beverages,Warehouse A,2026-03-31,2027-10-14,930,46,1617.34
+prd_1147,antibiotics_739,Medicine,Warehouse C,2026-04-22,2026-10-28,400,276,1481.54
+prd_1148,energy drink_766,Beverages,Warehouse B,2026-04-05,2026-09-29,450,236,4441.57
+prd_1149,tea_525,Beverages,Warehouse A,2025-12-03,2027-05-11,330,223,1569.49
+prd_1150,lip balm_168,Cosmetics,Warehouse A,2025-11-15,2026-06-19,861,48,475.22
+prd_1151,oil_161,Food,Warehouse C,2025-11-16,2026-05-28,696,67,2059.94
+prd_1152,coffee_419,Beverages,Warehouse C,2026-04-29,2027-04-18,116,300,2541.99
+prd_1153,paracetamol_458,Medicine,Warehouse C,2025-09-21,2026-07-07,127,147,2874.76
+prd_1154,coffee_791,Beverages,Warehouse A,2025-08-11,2027-07-08,633,141,154.48
+prd_1155,sunscreen_106,Cosmetics,Warehouse B,2025-12-18,2027-01-29,900,78,2835.94
+prd_1156,energy drink_748,Beverages,Warehouse A,2026-04-20,2026-11-11,103,276,1083.51
+prd_1157,juice_478,Beverages,Warehouse C,2025-10-05,2026-11-18,748,171,3886.41
+prd_1158,wheat_872,Food,Warehouse A,2026-04-29,2026-12-04,700,46,1367.79
+prd_1159,tea_524,Beverages,Warehouse C,2025-09-19,2027-08-01,230,267,577.95
+prd_1160,energy drink_794,Beverages,Warehouse D,2026-03-30,2027-03-15,549,162,236.63
+prd_1161,water_309,Beverages,Warehouse C,2025-07-23,2025-11-16,978,113,3839.07
+prd_1162,shampoo_107,Cosmetics,Warehouse D,2025-12-28,2027-01-27,774,225,886.72
+prd_1163,coffee_672,Beverages,Warehouse C,2025-08-26,2026-06-17,83,208,4310.2
+prd_1164,salt_179,Food,Warehouse C,2025-10-14,2026-01-01,599,224,2871.26
+prd_1165,tea_121,Beverages,Warehouse C,2025-12-28,2026-06-23,185,240,4161.81
+prd_1166,shampoo_349,Cosmetics,Warehouse D,2026-04-10,2027-08-30,613,210,2624.57
+prd_1167,juice_441,Beverages,Warehouse B,2025-12-18,2027-01-29,88,266,3169.79
+prd_1168,vitamin c_341,Medicine,Warehouse A,2025-11-28,2027-01-21,159,136,994.39
+prd_1169,vitamin c_891,Medicine,Warehouse D,2025-06-24,2025-11-08,485,293,3801.79
+prd_1170,energy drink_739,Beverages,Warehouse C,2025-08-09,2027-07-28,894,166,763.28
+prd_1171,biscuits_410,Food,Warehouse C,2025-09-27,2027-02-21,615,33,1766.19
+prd_1172,salt_138,Food,Warehouse A,2025-12-18,2027-06-03,387,151,392.89
+prd_1173,oil_493,Food,Warehouse D,2025-07-15,2027-05-14,604,288,4771.62
+prd_1174,biscuits_292,Food,Warehouse C,2025-10-07,2027-07-14,629,248,2511.82
+prd_1175,noodles_957,Food,Warehouse C,2025-10-07,2026-03-21,741,48,2527.7
+prd_1176,cough syrup_549,Medicine,Warehouse B,2026-05-05,2027-03-14,382,195,4590.5
+prd_1177,energy drink_712,Beverages,Warehouse A,2025-10-28,2026-12-08,818,176,338.9
+prd_1178,sugar_358,Food,Warehouse B,2025-08-13,2026-11-11,351,46,2917.87
+prd_1179,cough syrup_232,Medicine,Warehouse A,2025-11-27,2026-12-09,327,291,1889.63
+prd_1180,shampoo_761,Cosmetics,Warehouse D,2026-03-21,2027-11-10,530,190,100.97
+prd_1181,sunscreen_884,Cosmetics,Warehouse D,2026-02-22,2026-11-28,206,120,4999.88
+prd_1182,paracetamol_619,Medicine,Warehouse A,2026-04-16,2027-04-13,687,177,4383.2
+prd_1183,vitamin c_266,Medicine,Warehouse B,2025-07-24,2026-10-12,861,89,3608.7
+prd_1184,biscuits_836,Food,Warehouse B,2025-10-27,2027-01-03,464,150,3764.43
+prd_1185,juice_416,Beverages,Warehouse D,2026-01-26,2027-09-24,935,104,1845.53
+prd_1186,tea_614,Beverages,Warehouse D,2025-10-01,2026-09-14,999,87,4086.29
+prd_1187,cough syrup_995,Medicine,Warehouse C,2026-01-17,2026-05-10,577,57,3559.89
+prd_1188,noodles_264,Food,Warehouse C,2025-12-31,2026-05-25,470,267,745.27
+prd_1189,tea_457,Beverages,Warehouse A,2026-04-09,2027-01-21,434,32,1988.31
+prd_1190,shampoo_483,Cosmetics,Warehouse B,2026-01-25,2027-04-25,38,168,4654.82
+prd_1191,shampoo_393,Cosmetics,Warehouse D,2026-03-12,2026-09-28,722,76,3796.62
+prd_1192,water_181,Beverages,Warehouse A,2025-10-08,2027-08-29,272,115,4176.47
+prd_1193,juice_408,Beverages,Warehouse A,2026-03-30,2027-03-20,58,127,2104.93
+prd_1194,tea_711,Beverages,Warehouse A,2026-04-23,2026-10-13,657,268,2879.49
+prd_1195,paracetamol_729,Medicine,Warehouse C,2025-12-27,2027-05-10,256,297,2088.67
+prd_1196,rice_638,Food,Warehouse A,2025-08-30,2026-11-02,409,245,227.24
+prd_1197,energy drink_116,Beverages,Warehouse C,2025-11-15,2026-09-30,817,39,1730.56
+prd_1198,wheat_145,Food,Warehouse C,2025-08-01,2026-09-05,569,178,4069.41
+prd_1199,vitamin c_930,Medicine,Warehouse B,2025-09-30,2027-04-03,74,239,194.55
+prd_1200,paracetamol_423,Medicine,Warehouse C,2026-05-03,2027-01-22,537,208,4945.72
+prd_1201,energy drink_295,Beverages,Warehouse C,2026-01-16,2026-04-23,375,29,4330.33
+prd_1202,sunscreen_547,Cosmetics,Warehouse D,2026-01-06,2026-07-12,771,230,4474.24
+prd_1203,tea_808,Beverages,Warehouse D,2025-12-03,2026-08-11,386,270,1340.94
+prd_1204,salt_716,Food,Warehouse B,2025-10-20,2026-03-09,568,155,1612.85
+prd_1205,sugar_556,Food,Warehouse D,2025-12-09,2026-12-06,180,232,1764.22
+prd_1206,salt_381,Food,Warehouse A,2025-11-26,2027-10-16,86,212,1822.92
+prd_1207,bandage_794,Medicine,Warehouse D,2026-05-10,2026-12-02,45,69,345.49
+prd_1208,facewash_133,Cosmetics,Warehouse B,2025-11-21,2027-02-16,705,235,4744.63
+prd_1209,facewash_240,Cosmetics,Warehouse C,2025-10-10,2026-02-25,417,165,3251.31
+prd_1210,vitamin c_611,Medicine,Warehouse D,2026-03-28,2026-06-22,945,292,597.63
+prd_1211,facewash_392,Cosmetics,Warehouse D,2025-10-09,2026-07-15,214,67,687.28
+prd_1212,biscuits_555,Food,Warehouse A,2025-10-06,2026-05-30,839,168,3342.52
+prd_1213,sugar_407,Food,Warehouse B,2025-08-17,2027-04-24,738,94,3970.54
+prd_1214,vitamin c_342,Medicine,Warehouse D,2026-03-24,2026-12-14,36,189,2774.57
+prd_1215,moisturizer_726,Cosmetics,Warehouse A,2025-09-28,2027-06-14,77,163,1996.82
+prd_1216,tea_943,Beverages,Warehouse A,2025-08-29,2026-12-22,138,167,3215.27
+prd_1217,soda_231,Beverages,Warehouse B,2025-09-29,2027-05-11,796,71,2168.77
+prd_1218,wheat_411,Food,Warehouse B,2026-03-23,2027-11-03,175,170,4674.34
+prd_1219,antibiotics_966,Medicine,Warehouse A,2025-11-29,2027-07-13,266,105,3178.93
+prd_1220,sunscreen_729,Cosmetics,Warehouse A,2026-03-22,2028-02-20,524,91,2963.12
+prd_1221,bandage_445,Medicine,Warehouse A,2026-02-27,2028-01-27,855,19,415.3
+prd_1222,facewash_526,Cosmetics,Warehouse A,2025-06-26,2026-03-28,519,284,1455.46
+prd_1223,lip balm_404,Cosmetics,Warehouse D,2025-09-20,2026-07-27,84,35,798.82
+prd_1224,juice_448,Beverages,Warehouse B,2025-09-20,2027-03-09,330,168,3673.66
+prd_1225,sunscreen_627,Cosmetics,Warehouse A,2025-11-02,2026-05-14,336,128,2337.7
+prd_1226,moisturizer_199,Cosmetics,Warehouse A,2025-10-07,2026-08-16,307,201,4322.18
+prd_1227,soda_691,Beverages,Warehouse C,2026-01-18,2026-08-29,204,86,2496.35
+prd_1228,tea_123,Beverages,Warehouse A,2025-09-12,2026-09-22,977,206,2532.17
+prd_1229,antibiotics_149,Medicine,Warehouse A,2026-02-04,2027-11-23,298,258,2991.62
+prd_1230,water_967,Beverages,Warehouse A,2025-12-30,2027-08-31,451,73,4413.45
+prd_1231,shampoo_510,Cosmetics,Warehouse A,2025-10-31,2027-01-08,593,292,981.33
+prd_1232,facewash_561,Cosmetics,Warehouse C,2026-04-18,2027-07-17,855,65,652.03
+prd_1233,noodles_447,Food,Warehouse C,2025-11-05,2027-01-21,783,78,1003.3
+prd_1234,water_139,Beverages,Warehouse B,2025-09-11,2025-12-21,740,175,4021.79
+prd_1235,coffee_243,Beverages,Warehouse C,2026-03-10,2028-01-19,963,168,820.89
+prd_1236,facewash_948,Cosmetics,Warehouse D,2025-07-26,2026-09-03,735,293,1505.95
+prd_1237,biscuits_212,Food,Warehouse D,2025-11-18,2026-12-22,607,162,3985.81
+prd_1238,sugar_771,Food,Warehouse B,2025-07-24,2027-01-20,748,31,2921.78
+prd_1239,bandage_893,Medicine,Warehouse D,2025-08-30,2027-08-04,161,129,167.54
+prd_1240,salt_421,Food,Warehouse D,2026-02-17,2026-05-07,165,216,3455.6
+prd_1241,tea_993,Beverages,Warehouse A,2025-09-11,2027-07-29,732,75,2598.23
+prd_1242,lip balm_421,Cosmetics,Warehouse B,2025-09-23,2027-05-14,480,277,1718.21
+prd_1243,facewash_595,Cosmetics,Warehouse B,2025-06-30,2026-05-26,990,131,1402.24
+prd_1244,sunscreen_821,Cosmetics,Warehouse B,2026-01-30,2027-01-29,716,255,1592.03
+prd_1245,sunscreen_224,Cosmetics,Warehouse D,2025-08-12,2026-07-18,927,207,4093.7
+prd_1246,antibiotics_831,Medicine,Warehouse A,2025-12-28,2026-04-10,364,231,3283.3
+prd_1247,coffee_377,Beverages,Warehouse C,2026-02-05,2026-10-29,150,60,3082.23
+prd_1248,bandage_331,Medicine,Warehouse B,2026-01-21,2026-05-12,63,56,2072.37
+prd_1249,water_663,Beverages,Warehouse B,2026-04-04,2026-10-21,426,248,2392.47
+prd_1250,antibiotics_761,Medicine,Warehouse A,2025-12-29,2027-01-21,939,50,3264.97
+prd_1251,vitamin c_527,Medicine,Warehouse B,2025-08-25,2025-12-01,966,23,4985.89
+prd_1252,energy drink_993,Beverages,Warehouse C,2025-09-14,2026-05-22,907,24,56.24
+prd_1253,salt_756,Food,Warehouse D,2025-12-05,2026-11-21,920,73,4256.79
+prd_1254,water_438,Beverages,Warehouse B,2026-01-06,2026-09-20,758,239,3244.94
+prd_1255,antibiotics_681,Medicine,Warehouse B,2026-05-18,2027-06-27,189,212,4136.68
+prd_1256,shampoo_289,Cosmetics,Warehouse B,2026-04-11,2027-07-25,498,170,4679.77
+prd_1257,wheat_557,Food,Warehouse C,2026-01-12,2027-04-09,986,173,1516.71
+prd_1258,sugar_809,Food,Warehouse B,2026-01-12,2028-01-11,73,65,2332.32
+prd_1259,antibiotics_806,Medicine,Warehouse A,2025-10-30,2027-05-27,664,156,1844.04
+prd_1260,cough syrup_256,Medicine,Warehouse D,2026-02-02,2026-08-17,775,196,2085.07
+prd_1261,juice_796,Beverages,Warehouse A,2025-08-23,2026-06-02,548,233,2645.58
+prd_1262,shampoo_163,Cosmetics,Warehouse B,2026-04-16,2028-01-13,596,279,757.76
+prd_1263,shampoo_796,Cosmetics,Warehouse B,2025-09-01,2027-01-26,744,255,463.8
+prd_1264,juice_625,Beverages,Warehouse D,2026-04-27,2027-10-03,477,293,298.11
+prd_1265,tea_360,Beverages,Warehouse A,2025-12-19,2026-03-11,773,116,2895.77
+prd_1266,biscuits_165,Food,Warehouse A,2025-10-21,2026-12-07,967,40,4930.82
+prd_1267,tea_284,Beverages,Warehouse B,2026-05-09,2027-04-27,794,220,1878.56
+prd_1268,tea_182,Beverages,Warehouse B,2025-10-08,2026-12-28,679,183,601.98
+prd_1269,energy drink_328,Beverages,Warehouse A,2025-08-28,2026-03-06,784,16,4892.67
+prd_1270,coffee_488,Beverages,Warehouse B,2025-08-20,2026-12-27,263,240,1737.34
+prd_1271,shampoo_928,Cosmetics,Warehouse D,2026-02-18,2026-08-12,639,13,1210.92
+prd_1272,rice_557,Food,Warehouse A,2026-04-04,2028-02-01,260,27,2017.3
+prd_1273,paracetamol_243,Medicine,Warehouse C,2025-08-22,2026-05-31,249,299,1601.33
+prd_1274,moisturizer_776,Cosmetics,Warehouse B,2026-01-24,2027-01-28,433,158,1383.02
+prd_1275,bandage_607,Medicine,Warehouse A,2025-07-09,2026-11-18,362,200,3931.16
+prd_1276,moisturizer_407,Cosmetics,Warehouse D,2025-10-24,2027-02-14,198,280,2372.86
+prd_1277,cough syrup_159,Medicine,Warehouse D,2025-12-23,2026-07-18,436,290,2654.66
+prd_1278,juice_438,Beverages,Warehouse A,2026-01-21,2026-12-08,954,235,4237.2
+prd_1279,rice_374,Food,Warehouse D,2025-08-24,2026-05-06,699,25,4369.37
+prd_1280,vitamin c_590,Medicine,Warehouse B,2025-07-29,2027-04-22,900,175,1522.91
+prd_1281,biscuits_220,Food,Warehouse D,2026-02-06,2026-10-18,946,129,3481.18
+prd_1282,bandage_429,Medicine,Warehouse C,2025-11-03,2026-09-04,399,243,2672.91
+prd_1283,sunscreen_625,Cosmetics,Warehouse D,2025-12-19,2026-11-11,487,55,4016.05
+prd_1284,soda_420,Beverages,Warehouse D,2025-12-13,2026-09-07,56,293,4321.78
+prd_1285,bandage_698,Medicine,Warehouse D,2026-05-17,2027-04-09,312,83,989.0
+prd_1286,vitamin c_611,Medicine,Warehouse C,2025-11-12,2027-08-17,273,255,4832.88
+prd_1287,energy drink_914,Beverages,Warehouse C,2025-10-02,2026-05-22,183,76,3604.36
+prd_1288,energy drink_160,Beverages,Warehouse A,2026-02-20,2027-10-28,869,43,4726.49
+prd_1289,wheat_962,Food,Warehouse B,2026-05-22,2027-09-16,79,82,55.62
+prd_1290,coffee_753,Beverages,Warehouse D,2025-11-15,2026-03-16,685,254,88.5
+prd_1291,coffee_839,Beverages,Warehouse C,2026-05-19,2026-08-04,558,151,95.54
+prd_1292,water_636,Beverages,Warehouse B,2026-02-23,2026-08-11,256,103,3102.71
+prd_1293,lip balm_180,Cosmetics,Warehouse C,2025-11-25,2026-10-24,992,212,2300.4
+prd_1294,paracetamol_769,Medicine,Warehouse A,2026-01-30,2027-02-01,105,212,1902.53
+prd_1295,water_819,Beverages,Warehouse B,2026-04-27,2028-04-08,94,260,4228.2
+prd_1296,facewash_143,Cosmetics,Warehouse B,2025-08-09,2026-01-13,226,295,2382.75
+prd_1297,oil_677,Food,Warehouse A,2026-04-17,2027-03-30,193,166,88.13
+prd_1298,cough syrup_178,Medicine,Warehouse C,2025-07-29,2026-02-21,176,293,1209.96
+prd_1299,tea_873,Beverages,Warehouse B,2025-08-22,2026-09-25,819,45,2508.96
+prd_1300,lip balm_337,Cosmetics,Warehouse A,2026-04-28,2026-10-05,358,208,4844.91
+prd_1301,sunscreen_902,Cosmetics,Warehouse D,2026-05-10,2028-04-18,512,121,1785.5
+prd_1302,energy drink_699,Beverages,Warehouse D,2025-10-16,2026-06-23,97,156,3992.3
+prd_1303,wheat_489,Food,Warehouse B,2026-04-13,2027-03-13,767,204,1590.22
+prd_1304,sugar_555,Food,Warehouse C,2026-04-09,2026-06-13,789,143,520.13
+prd_1305,salt_670,Food,Warehouse D,2026-02-19,2027-07-05,115,18,457.2
+prd_1306,noodles_432,Food,Warehouse D,2025-07-24,2027-05-27,22,154,2074.91
+prd_1307,oil_633,Food,Warehouse B,2025-08-12,2026-06-16,711,199,855.81
+prd_1308,lip balm_249,Cosmetics,Warehouse A,2025-12-22,2026-11-21,181,227,1387.05
+prd_1309,sunscreen_357,Cosmetics,Warehouse B,2025-09-20,2026-02-05,748,258,2973.09
+prd_1310,vitamin c_411,Medicine,Warehouse A,2025-10-03,2026-03-21,981,207,1667.76
+prd_1311,soda_540,Beverages,Warehouse B,2025-12-08,2027-05-02,317,169,3020.02
+prd_1312,vitamin c_507,Medicine,Warehouse C,2025-09-22,2026-10-08,308,256,4839.14
+prd_1313,antibiotics_936,Medicine,Warehouse D,2025-12-10,2027-02-28,383,63,4661.02
+prd_1314,vitamin c_798,Medicine,Warehouse A,2025-07-26,2027-04-05,985,241,4715.44
+prd_1315,paracetamol_938,Medicine,Warehouse D,2025-10-13,2026-10-06,699,260,704.5
+prd_1316,moisturizer_832,Cosmetics,Warehouse D,2026-01-22,2026-12-06,818,198,379.09
+prd_1317,coffee_618,Beverages,Warehouse D,2025-07-31,2026-11-13,566,23,3955.7
+prd_1318,shampoo_211,Cosmetics,Warehouse B,2025-08-24,2027-06-23,683,186,840.03
+prd_1319,biscuits_762,Food,Warehouse D,2025-08-10,2027-07-31,1000,174,4828.93
+prd_1320,water_364,Beverages,Warehouse B,2026-04-01,2026-06-10,532,270,2794.39
+prd_1321,cough syrup_574,Medicine,Warehouse B,2025-10-09,2026-12-26,363,17,2419.03
+prd_1322,shampoo_951,Cosmetics,Warehouse B,2025-10-25,2026-03-21,366,164,1721.9
+prd_1323,antibiotics_587,Medicine,Warehouse A,2025-09-01,2027-03-09,458,236,1601.36
+prd_1324,shampoo_969,Cosmetics,Warehouse C,2026-05-03,2026-10-27,673,60,3388.93
+prd_1325,vitamin c_665,Medicine,Warehouse B,2026-01-21,2027-09-01,348,291,2137.58
+prd_1326,energy drink_288,Beverages,Warehouse B,2026-01-27,2027-05-16,665,226,1983.96
+prd_1327,cough syrup_498,Medicine,Warehouse A,2025-10-07,2027-08-04,731,114,1036.86
+prd_1328,noodles_992,Food,Warehouse B,2025-08-03,2026-01-14,384,171,993.4
+prd_1329,oil_754,Food,Warehouse C,2026-01-11,2027-07-26,621,203,3060.43
+prd_1330,noodles_568,Food,Warehouse B,2025-11-28,2027-01-22,843,157,4594.23
+prd_1331,rice_344,Food,Warehouse C,2026-03-18,2027-04-02,129,98,1872.8
+prd_1332,cough syrup_710,Medicine,Warehouse B,2025-09-06,2026-12-07,598,201,2120.96
+prd_1333,energy drink_760,Beverages,Warehouse B,2025-07-04,2027-03-06,578,90,2453.31
+prd_1334,cough syrup_734,Medicine,Warehouse A,2026-02-19,2027-03-08,896,188,4759.69
+prd_1335,tea_675,Beverages,Warehouse D,2026-03-17,2026-12-01,428,256,2084.0
+prd_1336,water_678,Beverages,Warehouse A,2025-09-17,2026-05-06,824,117,1467.53
+prd_1337,sunscreen_272,Cosmetics,Warehouse D,2026-01-30,2027-10-02,589,258,2753.13
+prd_1338,sugar_893,Food,Warehouse C,2025-08-05,2026-01-28,565,26,3802.42
+prd_1339,tea_204,Beverages,Warehouse B,2025-08-19,2026-05-29,314,21,2254.16
+prd_1340,shampoo_894,Cosmetics,Warehouse B,2026-04-11,2027-09-02,224,184,4306.63
+prd_1341,juice_903,Beverages,Warehouse B,2026-03-02,2028-01-21,843,110,4029.15
+prd_1342,facewash_651,Cosmetics,Warehouse B,2025-08-26,2026-08-08,341,154,1453.77
+prd_1343,moisturizer_868,Cosmetics,Warehouse D,2025-09-04,2026-02-08,950,35,4962.51
+prd_1344,vitamin c_828,Medicine,Warehouse C,2026-03-19,2027-01-28,858,131,3809.75
+prd_1345,coffee_747,Beverages,Warehouse C,2025-09-17,2026-04-10,652,217,1882.11
+prd_1346,salt_627,Food,Warehouse C,2025-07-05,2025-12-07,721,193,2278.93
+prd_1347,water_989,Beverages,Warehouse A,2025-12-09,2027-09-25,758,239,3177.85
+prd_1348,lip balm_323,Cosmetics,Warehouse D,2026-04-23,2027-12-21,854,113,2478.63
+prd_1349,facewash_691,Cosmetics,Warehouse B,2025-12-31,2027-02-09,589,253,3943.64
+prd_1350,biscuits_902,Food,Warehouse D,2026-05-02,2026-10-10,26,68,4647.87
+prd_1351,paracetamol_538,Medicine,Warehouse B,2025-10-12,2027-03-23,715,72,4411.92
+prd_1352,shampoo_770,Cosmetics,Warehouse C,2026-03-05,2027-02-08,266,47,1865.5
+prd_1353,antibiotics_843,Medicine,Warehouse B,2026-04-29,2027-08-07,449,51,3521.45
+prd_1354,rice_235,Food,Warehouse B,2026-02-05,2027-08-07,541,232,56.34
+prd_1355,moisturizer_589,Cosmetics,Warehouse A,2026-03-25,2027-07-30,244,201,455.76
+prd_1356,sugar_406,Food,Warehouse B,2026-04-03,2027-04-18,401,73,3211.46
+prd_1357,bandage_108,Medicine,Warehouse B,2026-04-20,2027-12-14,460,184,3614.94
+prd_1358,cough syrup_980,Medicine,Warehouse B,2025-10-27,2027-09-17,98,56,708.67
+prd_1359,sugar_539,Food,Warehouse C,2025-07-28,2026-10-24,820,76,1246.45
+prd_1360,oil_714,Food,Warehouse C,2026-01-18,2027-10-06,807,18,4240.98
+prd_1361,facewash_621,Cosmetics,Warehouse B,2026-02-09,2027-09-22,775,205,1484.75
+prd_1362,salt_215,Food,Warehouse B,2026-01-23,2027-08-12,521,41,2646.15
+prd_1363,wheat_496,Food,Warehouse D,2025-11-22,2026-12-11,384,284,3417.88
+prd_1364,coffee_169,Beverages,Warehouse A,2026-04-18,2026-07-04,278,115,208.74
+prd_1365,sugar_743,Food,Warehouse D,2025-11-03,2027-06-04,443,210,421.31
+prd_1366,antibiotics_180,Medicine,Warehouse B,2026-01-03,2026-05-28,837,84,2686.59
+prd_1367,energy drink_797,Beverages,Warehouse A,2025-07-29,2027-07-08,327,228,3652.49
+prd_1368,paracetamol_544,Medicine,Warehouse A,2026-04-26,2027-03-02,474,33,1553.36
+prd_1369,vitamin c_818,Medicine,Warehouse A,2026-03-25,2026-06-05,177,259,4765.55
+prd_1370,moisturizer_867,Cosmetics,Warehouse C,2026-03-01,2027-05-15,760,65,3859.44
+prd_1371,sugar_636,Food,Warehouse A,2025-12-05,2027-04-18,279,300,3141.39
+prd_1372,soda_156,Beverages,Warehouse D,2025-10-04,2027-05-10,889,295,842.74
+prd_1373,bandage_790,Medicine,Warehouse A,2026-01-15,2026-06-29,243,265,22.82
+prd_1374,salt_472,Food,Warehouse D,2026-01-20,2026-05-07,952,81,903.02
+prd_1375,wheat_429,Food,Warehouse B,2025-08-15,2026-12-17,436,168,1363.58
+prd_1376,rice_614,Food,Warehouse A,2025-08-06,2026-10-21,193,119,4023.65
+prd_1377,salt_986,Food,Warehouse C,2025-11-01,2026-03-11,802,164,1643.23
+prd_1378,juice_398,Beverages,Warehouse C,2026-05-21,2027-08-01,767,129,2324.99
+prd_1379,juice_254,Beverages,Warehouse A,2026-02-14,2027-10-26,964,214,129.31
+prd_1380,sunscreen_101,Cosmetics,Warehouse D,2025-07-04,2025-09-11,879,162,528.71
+prd_1381,paracetamol_245,Medicine,Warehouse C,2025-10-23,2027-05-09,105,27,4607.16
+prd_1382,energy drink_186,Beverages,Warehouse A,2025-11-16,2027-04-29,527,73,3189.71
+prd_1383,coffee_163,Beverages,Warehouse D,2026-04-17,2028-02-12,688,71,1191.49
+prd_1384,sunscreen_425,Cosmetics,Warehouse D,2025-12-15,2027-03-22,288,124,382.69
+prd_1385,paracetamol_259,Medicine,Warehouse A,2026-03-17,2028-01-04,178,235,2335.62
+prd_1386,soda_888,Beverages,Warehouse B,2026-03-25,2027-11-23,472,162,2322.1
+prd_1387,noodles_802,Food,Warehouse C,2026-04-09,2026-11-16,856,25,1082.95
+prd_1388,moisturizer_464,Cosmetics,Warehouse D,2026-03-11,2026-08-11,535,30,3389.15
+prd_1389,lip balm_975,Cosmetics,Warehouse D,2026-02-25,2026-05-27,579,286,1256.76
+prd_1390,water_112,Beverages,Warehouse A,2026-04-03,2026-10-23,860,118,662.27
+prd_1391,energy drink_186,Beverages,Warehouse C,2025-11-16,2027-10-22,949,43,118.78
+prd_1392,salt_928,Food,Warehouse B,2026-02-13,2028-02-04,104,174,621.41
+prd_1393,coffee_543,Beverages,Warehouse D,2026-04-30,2026-12-18,518,20,1919.82
+prd_1394,juice_291,Beverages,Warehouse C,2026-02-26,2027-04-24,296,233,4418.28
+prd_1395,oil_351,Food,Warehouse C,2025-07-15,2027-06-09,520,215,4415.07
+prd_1396,soda_492,Beverages,Warehouse B,2026-04-24,2026-09-20,439,107,3216.84
+prd_1397,paracetamol_491,Medicine,Warehouse C,2025-07-07,2027-03-15,501,283,3909.36
+prd_1398,sunscreen_497,Cosmetics,Warehouse C,2025-08-09,2027-03-06,194,18,1601.2
+prd_1399,paracetamol_928,Medicine,Warehouse D,2026-05-10,2027-04-22,552,188,3836.54
+prd_1400,vitamin c_772,Medicine,Warehouse B,2026-03-05,2026-08-14,282,278,4083.26
+prd_1401,noodles_916,Food,Warehouse D,2026-02-02,2027-11-13,373,93,888.74
+prd_1402,shampoo_820,Cosmetics,Warehouse C,2025-11-23,2027-09-19,980,295,2822.4
+prd_1403,antibiotics_279,Medicine,Warehouse D,2025-09-15,2027-05-23,48,51,290.28
+prd_1404,cough syrup_100,Medicine,Warehouse C,2026-05-15,2028-01-04,949,108,4034.16
+prd_1405,shampoo_122,Cosmetics,Warehouse B,2026-02-24,2027-03-22,610,77,3874.09
+prd_1406,lip balm_700,Cosmetics,Warehouse A,2026-04-18,2027-07-04,354,159,1619.79
+prd_1407,cough syrup_764,Medicine,Warehouse C,2025-10-14,2027-09-28,188,292,3470.87
+prd_1408,moisturizer_487,Cosmetics,Warehouse C,2026-01-31,2027-11-25,761,155,645.47
+prd_1409,noodles_889,Food,Warehouse A,2025-08-05,2026-11-08,196,167,4605.98
+prd_1410,paracetamol_608,Medicine,Warehouse B,2025-07-02,2027-04-02,349,44,1197.6
+prd_1411,shampoo_941,Cosmetics,Warehouse C,2026-03-01,2028-02-10,467,10,1333.41
+prd_1412,antibiotics_905,Medicine,Warehouse A,2026-04-21,2027-06-13,747,5,250.26
+prd_1413,tea_604,Beverages,Warehouse D,2025-10-23,2026-06-10,369,284,1882.98
+prd_1414,energy drink_330,Beverages,Warehouse B,2025-08-03,2027-07-30,472,42,3997.98
+prd_1415,sugar_367,Food,Warehouse A,2025-12-26,2026-03-16,85,180,858.82
+prd_1416,coffee_195,Beverages,Warehouse C,2026-03-04,2026-07-18,618,252,3525.48
+prd_1417,coffee_544,Beverages,Warehouse B,2025-06-25,2026-02-08,64,56,1662.16
+prd_1418,bandage_371,Medicine,Warehouse C,2025-10-28,2027-07-17,314,126,488.62
+prd_1419,tea_257,Beverages,Warehouse A,2025-08-06,2027-04-20,379,6,2143.75
+prd_1420,lip balm_304,Cosmetics,Warehouse A,2025-07-09,2027-05-14,36,110,862.45
+prd_1421,shampoo_415,Cosmetics,Warehouse D,2026-04-14,2027-10-10,492,255,4475.44
+prd_1422,facewash_496,Cosmetics,Warehouse B,2026-04-09,2028-03-26,389,200,1853.31
+prd_1423,tea_576,Beverages,Warehouse C,2026-05-03,2027-03-28,241,142,2825.59
+prd_1424,antibiotics_927,Medicine,Warehouse D,2026-04-06,2026-08-31,784,121,2772.47
+prd_1425,coffee_803,Beverages,Warehouse D,2025-08-31,2027-01-01,596,125,2386.55
+prd_1426,oil_684,Food,Warehouse B,2025-11-04,2026-02-07,133,234,872.67
+prd_1427,vitamin c_143,Medicine,Warehouse D,2026-02-06,2026-10-21,90,227,1017.58
+prd_1428,antibiotics_844,Medicine,Warehouse A,2025-07-25,2026-06-14,99,203,2786.26
+prd_1429,lip balm_994,Cosmetics,Warehouse A,2026-01-04,2027-08-19,815,272,3910.61
+prd_1430,wheat_680,Food,Warehouse A,2025-10-25,2026-05-26,957,59,2817.79
+prd_1431,sugar_998,Food,Warehouse D,2025-12-30,2027-08-30,280,201,3277.39
+prd_1432,soda_512,Beverages,Warehouse B,2026-05-06,2026-12-28,643,210,203.52
+prd_1433,lip balm_375,Cosmetics,Warehouse C,2026-01-24,2026-05-14,30,177,4088.76
+prd_1434,lip balm_978,Cosmetics,Warehouse A,2025-12-17,2026-11-29,899,121,680.58
+prd_1435,energy drink_526,Beverages,Warehouse A,2025-12-12,2026-11-12,202,231,1064.84
+prd_1436,soda_940,Beverages,Warehouse A,2025-09-19,2027-04-30,537,86,337.43
+prd_1437,coffee_129,Beverages,Warehouse B,2026-03-17,2027-11-03,207,107,4186.51
+prd_1438,paracetamol_469,Medicine,Warehouse B,2026-05-09,2027-10-18,290,193,4119.3
+prd_1439,energy drink_131,Beverages,Warehouse B,2025-07-04,2026-01-06,391,255,2974.28
+prd_1440,bandage_458,Medicine,Warehouse C,2025-09-25,2027-07-17,177,137,3747.32
+prd_1441,salt_150,Food,Warehouse B,2025-12-31,2026-03-29,884,297,3901.35
+prd_1442,vitamin c_793,Medicine,Warehouse B,2026-02-01,2028-01-24,285,214,2571.27
+prd_1443,biscuits_277,Food,Warehouse A,2025-09-25,2026-04-08,239,134,3045.64
+prd_1444,lip balm_485,Cosmetics,Warehouse C,2025-06-30,2026-06-06,480,134,1098.86
+prd_1445,lip balm_698,Cosmetics,Warehouse A,2025-09-01,2027-07-31,17,266,4997.15
+prd_1446,facewash_723,Cosmetics,Warehouse C,2025-08-11,2027-08-03,315,60,2413.87
+prd_1447,sunscreen_982,Cosmetics,Warehouse C,2026-01-04,2027-12-20,277,157,949.92
+prd_1448,cough syrup_776,Medicine,Warehouse C,2026-04-26,2028-02-29,707,76,3609.2
+prd_1449,tea_514,Beverages,Warehouse D,2025-12-25,2026-11-15,764,23,2919.29
+prd_1450,bandage_753,Medicine,Warehouse D,2025-12-01,2026-09-14,938,188,2541.5
+prd_1451,antibiotics_199,Medicine,Warehouse D,2025-08-13,2026-04-15,141,137,3628.68
+prd_1452,paracetamol_327,Medicine,Warehouse C,2025-12-05,2027-12-05,238,162,2108.16
+prd_1453,facewash_401,Cosmetics,Warehouse D,2025-11-16,2026-10-08,881,65,2357.98
+prd_1454,oil_222,Food,Warehouse D,2025-09-26,2026-06-12,552,157,2071.41
+prd_1455,antibiotics_519,Medicine,Warehouse D,2026-03-16,2026-12-06,156,166,4313.35
+prd_1456,antibiotics_746,Medicine,Warehouse B,2026-04-14,2027-10-25,330,34,33.52
+prd_1457,facewash_882,Cosmetics,Warehouse B,2026-02-07,2026-09-27,511,50,655.74
+prd_1458,tea_539,Beverages,Warehouse D,2025-07-05,2026-11-16,402,7,198.25
+prd_1459,antibiotics_875,Medicine,Warehouse B,2025-11-15,2026-01-28,28,7,3137.17
+prd_1460,antibiotics_232,Medicine,Warehouse A,2026-01-30,2027-03-18,402,262,2947.47
+prd_1461,antibiotics_397,Medicine,Warehouse D,2026-04-22,2026-08-06,755,271,2985.89
+prd_1462,sunscreen_601,Cosmetics,Warehouse C,2025-10-15,2026-04-30,778,101,832.77
+prd_1463,juice_844,Beverages,Warehouse B,2026-05-16,2027-03-05,226,16,2952.57
+prd_1464,paracetamol_484,Medicine,Warehouse C,2026-03-23,2027-06-01,799,278,3119.44
+prd_1465,noodles_120,Food,Warehouse A,2026-03-31,2028-03-29,716,64,2089.71
+prd_1466,soda_585,Beverages,Warehouse B,2026-03-23,2027-12-03,220,9,1512.57
+prd_1467,oil_720,Food,Warehouse B,2025-09-01,2026-08-03,438,58,2562.81
+prd_1468,noodles_208,Food,Warehouse D,2026-01-01,2026-06-26,213,107,3892.01
+prd_1469,antibiotics_264,Medicine,Warehouse A,2025-11-23,2027-03-17,571,259,4552.68
+prd_1470,water_113,Beverages,Warehouse A,2025-12-07,2026-10-03,938,61,4177.81
+prd_1471,coffee_176,Beverages,Warehouse A,2026-03-10,2026-08-09,936,136,3225.24
+prd_1472,tea_151,Beverages,Warehouse A,2025-12-25,2026-11-20,842,94,4371.96
+prd_1473,lip balm_856,Cosmetics,Warehouse A,2025-11-22,2026-12-07,107,28,58.26
+prd_1474,antibiotics_466,Medicine,Warehouse D,2025-06-28,2026-02-17,988,142,4393.59
+prd_1475,wheat_216,Food,Warehouse D,2025-11-16,2026-12-31,419,238,1366.45
+prd_1476,energy drink_916,Beverages,Warehouse B,2025-09-23,2027-01-27,125,72,3483.89
+prd_1477,salt_704,Food,Warehouse D,2026-03-05,2026-08-18,831,296,3395.18
+prd_1478,antibiotics_726,Medicine,Warehouse A,2025-07-17,2026-10-08,893,71,2420.57
+prd_1479,tea_147,Beverages,Warehouse A,2026-03-29,2027-07-23,277,165,71.68
+prd_1480,bandage_804,Medicine,Warehouse A,2025-12-03,2027-07-17,453,132,2414.83
+prd_1481,coffee_155,Beverages,Warehouse A,2026-03-10,2027-12-01,668,85,2532.78
+prd_1482,water_869,Beverages,Warehouse D,2025-09-14,2026-05-01,338,128,1661.17
+prd_1483,moisturizer_663,Cosmetics,Warehouse D,2026-04-30,2027-11-30,422,125,403.36
+prd_1484,water_977,Beverages,Warehouse D,2025-08-05,2027-01-05,467,166,602.35
+prd_1485,water_513,Beverages,Warehouse D,2025-06-25,2025-09-11,46,290,2750.0
+prd_1486,biscuits_411,Food,Warehouse B,2025-07-20,2027-06-13,680,238,4752.27
+prd_1487,lip balm_439,Cosmetics,Warehouse D,2026-04-28,2027-02-10,743,191,3582.41
+prd_1488,rice_449,Food,Warehouse C,2026-04-06,2027-01-18,859,154,2742.98
+prd_1489,moisturizer_604,Cosmetics,Warehouse B,2026-04-01,2026-07-16,851,214,543.74
+prd_1490,cough syrup_320,Medicine,Warehouse D,2026-02-18,2026-08-20,854,102,3586.77
+prd_1491,biscuits_957,Food,Warehouse A,2025-10-25,2026-02-09,800,235,2292.37
+prd_1492,bandage_853,Medicine,Warehouse A,2025-09-12,2025-11-15,576,226,4195.69
+prd_1493,energy drink_692,Beverages,Warehouse B,2025-09-07,2026-05-06,758,70,526.73
+prd_1494,lip balm_723,Cosmetics,Warehouse B,2025-09-09,2026-12-06,290,208,4818.33
+prd_1495,moisturizer_522,Cosmetics,Warehouse C,2025-10-06,2026-04-20,873,285,4304.93
+prd_1496,bandage_831,Medicine,Warehouse C,2026-02-12,2026-11-13,713,181,4606.75
+prd_1497,bandage_655,Medicine,Warehouse C,2025-06-27,2026-02-24,737,64,3806.27
+prd_1498,energy drink_827,Beverages,Warehouse D,2025-07-31,2027-05-06,700,278,1436.78
+prd_1499,water_125,Beverages,Warehouse D,2026-05-19,2028-01-04,158,32,3354.57
