@@ -53,3 +53,4 @@ os.makedirs('data', exist_ok=True)
 df.to_csv('data/product_data.csv', index=False)
 print(f"Dataset created succesfully! shape: {df.shape}")
 print(df.head())
+
