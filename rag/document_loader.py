@@ -8,7 +8,7 @@ df = pd.read_csv('data/product_data.csv')
 # Convert each product row into a text document
 # This is what RAG will search through
 
-document = []
+documents = []
 
 for _, row in df.iterrows():
     doc = f"""
@@ -23,17 +23,17 @@ for _, row in df.iterrows():
     price per unit: {row['price_per_unit']}
 
     """
-    document.append(doc)
+    documents.append(doc)
 
 
-print(f"total documents created: {len(document)}")
+print(f"total documents created: {len(documents)}")
 print("/n=== sample document ===")
-print(document[0])
+print(documents[0])
 
 
 #save documents to json file
 os.makedirs('rag', exist_ok=True)
 with open('rag/documents.json', 'w') as f:
-    json.dump(document, f)
+    json.dump(documents, f)
 
 print("/n === documents saved to rag/documents.json ===")

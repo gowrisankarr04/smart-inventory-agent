@@ -54,3 +54,4 @@ import pickle
 with open("models/expiry_model.pkl", "wb") as f:
     pickle.dump(model, f)
 print("Model saved successfully!")
+
