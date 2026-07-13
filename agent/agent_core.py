@@ -28,7 +28,7 @@ def ask_agent(question):
 
     question_vector = embedding_model.encode([question]).astype(np.float32)
 
-    distances, indices = index.search(question_vector, 5)
+    distances, indices = index.search(question_vector, 15)
     relevant_docs = [documents[i] for i in indices[0]]
     context = "\n".join(relevant_docs)
 
